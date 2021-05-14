@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SavchenkoSM
+- 👀 I’m interested in Android mobile development
+- 🌱 I’m currently learning architectural (MVC, MVP, MVVM) patterns and technologies for client-server interaction (OkHttp, Retrofit etc)
